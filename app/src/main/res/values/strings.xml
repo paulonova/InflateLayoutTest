@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inflate Layout Test</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="share">SHARE</string>
+    <string name="explore">EXPLORE</string>
+    <string name="anim_description">Duis hendrerit accumsan sapien at vestibulum. Aliquam congue, libero vel auctor efficitur, leo ligula pharetra urna, non ornare metus ex at lacus.</string>
+    <string name="back">Back to List</string>
+</resources>
